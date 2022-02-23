@@ -7,7 +7,7 @@ ile bağlantısını sağlayın ve CRUD işlemlerini spring-data-jpa ile gerçek
 operasyonları gerçekleştirilmektedir. Bu uygulama içerisine Advert entity de oluşturun yine CRUD 
 operasyonlarını gerçekleştiren kodu yazın.(10 PUAN)
 
-b) JDBC, JdbcTempalete ve Hibernate ile CRUD operasyonlarını karşılaştıran makaleyi 
+  b) JDBC, JdbcTempalete ve Hibernate ile CRUD operasyonlarını karşılaştıran makaleyi 
 yazın.(5 PUAN)
 
 3. Aşağıdaki kavramları araştırarak kullanım senaryolarını, hangi problemi nasıl çözdüklerini 
